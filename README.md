@@ -3,7 +3,7 @@
 ![PantryPal Screenshot](images/screenshot.png)
 
 ## 🌟 Overview
-**PantryPal** is a visually appealing and **easy-to-use meal planner** that helps users follow a **healthy vegetarian diet** throughout the week. Each day contains a carefully curated menu with **Breakfast, Lunch, and Dinner**, along with approximate calorie information for each meal.  
+**PantryPal** is a visually appealing and **easy-to-use meal planner** that helps users follow a **healthy diet** throughout the week. Each day contains a carefully curated menu with **Breakfast, Lunch, and Dinner**, along with approximate calorie information for each meal.  
 
 PantryPal helps users:  
 - 🥕 Maintain a balanced diet  
